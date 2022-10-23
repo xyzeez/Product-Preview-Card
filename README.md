@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://your-solution-url.com)
+- Solution URL: [Click here](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub/responsive-product-preview-card-zbpVz3FLMK)
 - Live Site URL: [Click here](https://femc-product-preview-card.netlify.app/)
 
 ## My process
