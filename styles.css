@@ -74,6 +74,7 @@ body {
 
 .right {
     width: 50%;
+    max-height: 100%;
 }
 
 @media screen and (min-width: 43.75rem){
@@ -92,7 +93,8 @@ img, picture {
     display: flex;
     flex-direction: column;
     gap: 1.25rem;
-    width: 50%;    
+    width: 50%;
+    height: 100%;    
     padding: 2.5rem;
     z-index: 1;
     background-color: hsl(0, 0%, 100%);
@@ -107,7 +109,7 @@ img, picture {
 
 h1 {
     font-family: 'fraunces', sans-serif;
-    font-size: 2rem;
+    font-size: 1.88rem;
     line-height: 1;
     color: hsl(212, 21%, 14%);
 }
@@ -186,6 +188,7 @@ button {
 
     button:hover {
         background-color: hsl(158, 36%, 20%);
+        cursor: pointer;
         transition: background-color 1s linear;
     }
 
