@@ -24,7 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Desktop%20View%20Screenshot.png)
+![](./images/screenshots/desktop.gif)
+![](./images/screenshots/tablet.png)
+![](./images/screenshots/mobile.png)
 
 
 ### Links
