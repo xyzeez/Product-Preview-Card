@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![]([./images/screenshots/desktop.gif](https://github.com/xyzeez/Product-Preview-Card/blob/main/images/screenshots/desktop.gif))
+![]([./images/screenshots/desktop.gif](https://github.com/xyzeez/Product-Preview-Card/blob/main/images/screenshots/desktop.gif)
 ![](./images/screenshots/tablet.png)
 ![](./images/screenshots/mobile.png)
 
