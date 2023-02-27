@@ -101,6 +101,7 @@ img, picture {
 .firstp {
     font-family: 'montserrat', sans-serif;
     font-size: 0.875rem;
+    letter-spacing: 0.25rem;
     color: hsl(228, 12%, 48%);
 }
 
