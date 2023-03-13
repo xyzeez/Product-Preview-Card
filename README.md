@@ -1,13 +1,15 @@
 # Frontend Mentor - Product preview card component solution
 
+![](./images/screenshots/desktop.png)
+
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
+  - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
@@ -22,17 +24,19 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
-### Screenshot
-
-![](./images/screenshots/desktop.png)
-![](./images/screenshots/tablet.png)
-![](./images/screenshots/mobile.png)
-
 
 ### Links
 
 - Solution URL: [Click here](https://www.frontendmentor.io/solutions/responsive-product-preview-card-zbpVz3FLMK)
 - Live Site URL: [Click here](https://femc-product-preview-card.netlify.app/)
+
+### Screenshot
+
+- [Mobile](./images/screenshots/mobile.png)
+- [Tablet](./images/screenshots/tablet.png)
+- [Desktop](./images/screenshots/desktop.png)
+
+
 
 ## My process
 
